@@ -1,6 +1,6 @@
 ## Ciclo de vida del dato
 
-El ciclo de vida de los datos en un proyecto de software abarca desde su creación hasta su eliminación, pasando por varias etapas cruciales[1][3]:
+El ciclo de vida de los datos en un proyecto de software abarca desde su creación hasta su eliminación, pasando por varias etapas cruciales:
 
 1. **Generación o captura**: Los datos se crean o se introducen en el sistema a través de diversas fuentes.
 2. **Almacenamiento y organización**: Los datos se guardan de manera segura y estructurada para facilitar su posterior recuperación.
@@ -32,7 +32,7 @@ La seguridad en el desarrollo de software es primordial. Algunas medidas esencia
 - Realización de pruebas de penetración y análisis de vulnerabilidades.
 - Gestión adecuada de secretos y credenciales.
 
-En cuanto a la regulación, el Reglamento General de Protección de Datos (RGPD) es una consideración crucial para cualquier software que maneje datos personales de ciudadanos de la UE[3]. Esto implica:
+En cuanto a la regulación, el Reglamento General de Protección de Datos (RGPD) es una consideración crucial para cualquier software que maneje datos personales de ciudadanos de la UE. Esto implica:
 
 - Implementar mecanismos de consentimiento para la recopilación de datos.
 - Proporcionar a los usuarios control sobre sus datos personales.
@@ -40,7 +40,7 @@ En cuanto a la regulación, el Reglamento General de Protección de Datos (RGPD)
 
 ## Implicación de las THD en negocio y planta
 
-Las Tecnologías Habilitadoras Digitales (THD) tienen un impacto significativo en entornos de negocio y plantas industriales[4]. Un software bien diseñado puede:
+Las Tecnologías Habilitadoras Digitales (THD) tienen un impacto significativo en entornos de negocio y plantas industriales. Un software bien diseñado puede:
 
 - Optimizar procesos operativos mediante la automatización y el análisis de datos en tiempo real.
 - Mejorar la toma de decisiones a través de insights basados en datos.
@@ -48,7 +48,7 @@ Las Tecnologías Habilitadoras Digitales (THD) tienen un impacto significativo e
 
 ## Mejoras en IT y OT
 
-La integración entre IT (Tecnologías de la Información) y OT (Tecnologías Operativas) es un área de gran potencial para la mejora de procesos[4]. Un software que facilite esta integración puede:
+La integración entre IT (Tecnologías de la Información) y OT (Tecnologías Operativas) es un área de gran potencial para la mejora de procesos. Un software que facilite esta integración puede:
 
 - Permitir el monitoreo en tiempo real de equipos y procesos industriales.
 - Facilitar el análisis predictivo para mantenimiento y optimización de recursos.
@@ -63,7 +63,7 @@ Las THD que podrían integrarse en un proyecto de software incluyen:
 - **Blockchain**: Para garantizar la integridad y trazabilidad de los datos.
 - **Computación en la nube**: Para escalabilidad y procesamiento distribuido.
 
-La implementación de estas tecnologías puede mejorar significativamente la funcionalidad del software, permitiendo análisis más profundos, mayor automatización y una mejor adaptabilidad a las necesidades cambiantes del negocio[4].
+La implementación de estas tecnologías puede mejorar significativamente la funcionalidad del software, permitiendo análisis más profundos, mayor automatización y una mejor adaptabilidad a las necesidades cambiantes del negocio.
 
 En conclusión, el desarrollo de un software funcional y operativo requiere una consideración cuidadosa de todos estos aspectos, desde la gestión del ciclo de vida de los datos hasta la integración de tecnologías avanzadas. La clave está en crear una solución que no solo resuelva problemas actuales, sino que también sea lo suficientemente flexible para adaptarse a las necesidades futuras y aprovechar las oportunidades que ofrecen las tecnologías emergentes.
 
